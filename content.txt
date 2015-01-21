@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Planets</title>
+</head>
+<body>
+
+	<header>
+		<h1>Planets</h1>
+	</header>
+
+	<ol>
+		<li><a>Introduction</a></li>
+		<li><a>Terrestrial planets</a></li>
+		<li><a>Mars</a></li>
+		<li><a>Venus</a></li>
+		<li><a>Sources</a></li>
+	</ol>
+
+	<h2>Introduction</h2>
+
+		<p>A planet is a <em>celestial</em> body, orbiting a star, that is massive enough to be gravitationally <em>rounded</em> and has <q>“cleared the neighbourhood”</q> around its orbit.</p>
+
+		<blockquote>
+		<p>“I think of space not as the final frontier but as the next frontier.”</p>
+		<footer>— <cite>Neil Degrasse Tyson</cite></footer>
+		</blockquote>
+
+<em>Unfortunately</em>, Pluto is no longer a planet but a dwarf planet. Sometimes I think, <em>Pluto still deserves full planet hood.</em>
+
+	<h2>Terrestrial planets<h/2>
+
+		<ol>
+			<li>Mercury</li>
+			<li>Venus</li>
+			<li>Earth</li>
+			<li>Mars</li>
+
+	<h3>Mars</h3>
+
+Mars is named after the Roman god of war, it is often described as the “Red Planet” because the iron oxide prevalent on its surface gives it a reddish appearance.
+
+A computer-generated image of Mars from real data.
+
+Semi-major axis:
+227 939 100 km
+
+Orbital period:
+686.971 d
+
+Mean radius:
+3389.5 km
+
+	<h3>Venus</h3>
+
+Venus is the second planet from the Sun, orbiting it every 224.7 Earth days.
+
+A real-colour image of Venus processed from two filters. The surface is obscured by a thick blanket of clouds.
+
+Semi-major axis:
+108 208 000 km
+
+Orbital period:
+224.701 d
+
+Mean radius:
+6051.8 km
+
+Sources
+
+https://en.wikipedia.org/wiki/Mars
+https://en.wikipedia.org/wiki/Venus
